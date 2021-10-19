@@ -1,3 +1,3 @@
 ## PetDapp
 
-Pet shop dapp with truffle
+Pet shop dapp with truffle (tutorial)
